@@ -17,9 +17,9 @@ It combines <b>data analysis, visualization, and risk modeling</b> to help under
 - Time-series + scatter + distribution visualizations<br>
   
 <h2> Dashboard Preview</h2>  
-![Dashboard](dashboard.png)<br>
----
-
+<p align="center">
+  <img src="dashboard.png" width="700"/>
+</p>
  <h2>How It Works</h2>
 1. Weather data is loaded and cleaned  <br>
 2. A **Risk Score** is calculated:<br>
