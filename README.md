@@ -56,7 +56,7 @@ marine-risk-intelligence/<br>
 -  Interactive web dashboard (Streamlit)  <br>
 -  Route optimization for ships  <br>
 
-<h2>👩‍💻 Author </h2>  <br>
+
 <B>Malavika Rajeevan</B> <br>
 
 
